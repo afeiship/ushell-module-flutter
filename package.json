@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-flutter",
+  "version": "0.0.1",
+  "description": "Flutter unix modules.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-flutter.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-flutter"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-flutter/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-flutter"
+}
