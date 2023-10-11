@@ -4,6 +4,11 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 
 # set flutter path:
 # https://docs.flutter.dev/get-started/install/macos
-export PATH="$PATH:$HOME/github/software/flutter/bin"
+# https://flutter.cn/community/china
+
+export PATH="$PATH:$HOME/github/software/flutter/bin";
+export PUB_HOSTED_URL=https://pub.flutter-io.cn;
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn;
+
 
 unset ROOT_PATH;
