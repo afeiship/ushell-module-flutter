@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-flutter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flutter unix modules.",
   "main": "index.sh",
   "repository": {
@@ -8,10 +8,9 @@
     "url": "git+https://github.com/afeiship/ushell-module-flutter.git"
   },
   "keywords": [
-    "ushell",
     "unix",
     "shell",
-    "ushell-module-flutter"
+    "flutter"
   ],
   "license": "MIT",
   "bugs": {
