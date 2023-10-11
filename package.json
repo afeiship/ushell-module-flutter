@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-flutter",
-  "version": "0.0.1",
+  "name": "@jswork/ushell-module-flutter",
+  "version": "1.0.0",
   "description": "Flutter unix modules.",
   "main": "index.sh",
   "repository": {
@@ -13,12 +13,16 @@
     "shell",
     "ushell-module-flutter"
   ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-flutter/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-flutter"
+  "homepage": "https://github.com/afeiship/ushell-module-flutter",
+  "scripts": {
+    "release": "release-it"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
 }
