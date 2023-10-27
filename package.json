@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-flutter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Flutter unix modules.",
   "main": "index.sh",
   "repository": {
@@ -12,7 +12,9 @@
     "shell",
     "flutter",
     "android",
-    "ios"
+    "ios",
+    "bin",
+    "dart"
   ],
   "license": "MIT",
   "bugs": {
