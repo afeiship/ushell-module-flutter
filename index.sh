@@ -2,7 +2,7 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-source "$ROOT_PATH/01-dart-dp.sh";
+source "$ROOT_PATH/modules/01-dart-dp.sh";
 
 # set flutter path:
 # https://docs.flutter.dev/get-started/install/macos
